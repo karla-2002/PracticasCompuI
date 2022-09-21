@@ -1,9 +1,9 @@
-// VERSIÓN 1
+
 # VERSIÓN 2 
 ## Electrónica Analítica
 **Domingo**
-##Termodinámica
+## Termodinámica
 **Andrés**
-##Bioquímica
+## Bioquímica
 **Ofelia**
 
