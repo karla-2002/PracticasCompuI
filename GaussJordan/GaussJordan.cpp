@@ -91,7 +91,7 @@ No regresa ningún valor.
 template <typename matriz>
 void ImprimirSolucion(matriz & miMatriz)
 {
-    cout<< "Solucion: " <<endl << "x0 = [" << miMatriz [0][3]<< "]" << endl << "x1 = [" << miMatriz [1][3]<< "]" <<endl <<"x2 = [" << miMatriz [2][3]<< "]"<<endl;
+    cout<< "Solucion: " <<endl << "x0 = " << miMatriz [0][3] << endl << "x1 = " << miMatriz [1][3]<<endl <<"x2 = " << miMatriz [2][3]<<endl;
 }
 
 /*
