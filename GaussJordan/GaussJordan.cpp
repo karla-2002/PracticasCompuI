@@ -45,7 +45,7 @@ int main()
 
     // Aplicamos el método de Gauss-Jordan sobre nuestra matriz
     GaussJordan(miMatriz);// son las que tengo qe hacer
-    ImprimirMatriz(miMatriz);
+    //ImprimirMatriz(miMatriz);
     // Imprimimos la solución de la matriz
     ImprimirSolucion(miMatriz); //son las que tengo qe hacer
 
@@ -186,4 +186,5 @@ void sum(matriz & miMatriz){
             }
         }
     }
+
 }
